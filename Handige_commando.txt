@@ -1,0 +1,3 @@
+Discovery tools
+SSH -l (username) (ip)  | Om naar een andere switch of router te verbinden
+telnet (ip) | Om naar een andere switch of router te verbinden
