@@ -1,0 +1,13 @@
+Korte handleiding discovery b1-k2-w2
+
+1) #show interfaces#
+
+2) #show running-config# en #show startup-config#
+
+3) Begin met #arp -a# op devices of #show arp# op routers en switches
+
+4) #show cdp neighbors detail# of #show lldp# (probeer ook #show cdp neighbors#)
+
+5) #show ip route#
+
+6) #SSH -l (username) (ip)# of #telnet (ip)# om naar een andere switch of router te verbinden
